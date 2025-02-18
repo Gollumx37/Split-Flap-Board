@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="356mm"
+   viewBox="0 0 600 356"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Seitenplatten.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69219277"
+     inkscape:cx="685.50268"
+     inkscape:cy="538.14489"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="1054"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer9" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Seite oberstes Element"
+     style="display:inline">
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.0422459;paint-order:markers fill stroke"
+       d="m 5.0211229,120.02113 v 99.95775 H 291.97887 v -99.95775 z"
+       id="path4" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="nicht cutten 1"
+       style="display:none">
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.0028053;paint-order:markers fill stroke"
+         d="m 5.0014026,120.0014 v 3.4972 H 15.498597 v -3.4972 z"
+         id="path5" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.0028053;paint-order:markers fill stroke"
+         d="m 5.0014027,216.5014 v 3.4972 H 15.498597 v -3.4972 z"
+         id="path5-5" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00378958;paint-order:markers fill stroke"
+         d="m 291.9981,120.0019 v 3.4962 h -4.99621 v -3.4962 z"
+         id="path6"
+         inkscape:label="path6" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00378958;paint-order:markers fill stroke"
+         d="m 291.9981,216.50189 v 3.4962 h -4.99621 v -3.4962 z"
+         id="path6-2"
+         inkscape:label="path6" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="Löcher">
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3-1-1"
+         cx="15.505"
+         cy="123.505"
+         r="1.55" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3-1-1-0"
+         cx="15.505"
+         cy="216.505"
+         r="1.55" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3-1-1-0-3"
+         cx="287.005"
+         cy="216.505"
+         r="1.55" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3-1-1-0-3-9"
+         cx="287.005"
+         cy="123.505"
+         r="1.55" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="Seite mittleres Element">
+    <g
+       inkscape:groupmode="layer"
+       id="layer9"
+       inkscape:label="Löcher">
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3-1-1-0-31"
+         cx="11.705"
+         cy="243.505"
+         r="1.55" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3-1-1-0-31-1"
+         cx="11.705"
+         cy="336.505"
+         r="1.55" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3-1-1-0-31-1-6"
+         cx="296.005"
+         cy="336.505"
+         r="1.55" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3-1-1-0-31-1-6-2"
+         cx="296.005"
+         cy="243.505"
+         r="1.55" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="nicht cutten"
+       style="display:none">
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00299664;paint-order:markers fill stroke"
+         d="m 5.0014983,336.5015 h 6.6970037 v 3.497 H 5.0014983 Z"
+         id="path8-7" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00299664;paint-order:markers fill stroke"
+         d="m 5.0014984,240.0015 h 6.6970036 v 3.497 H 5.0014984 Z"
+         id="path8" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00337516;paint-order:markers fill stroke"
+         d="m 296.00169,240.00169 h 8.49662 v 3.49662 h -8.49662 z"
+         id="path8-5" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00337516;paint-order:markers fill stroke"
+         d="m 296.00169,336.50169 h 8.49662 v 3.49662 h -8.49662 z"
+         id="path8-5-5" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer11"
+       inkscape:label="Rand"
+       style="display:inline">
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.0338183;paint-order:markers fill stroke"
+         d="m 5.0169091,240.01691 v 99.96618 H 304.48309 v -99.96618 z"
+         id="path7" />
+    </g>
+  </g>
+  <g
+     inkscape:label="Seite unterstes Eelement"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="nicht cutten"
+       style="display:none">
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.034;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="M 5.016921,5.1730542 V 8.483079 H 15.483079 V 5.016921 H 5.016921 Z"
+         id="path2" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.034;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 245.517,101.67314 v 3.31002 h 10.46615 V 101.517 H 245.517 Z"
+         id="path2-7" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.0277754;stroke-dasharray:none;paint-order:markers fill stroke"
+         d="m 249.01389,5.1703013 v 3.3159686 h 6.97222 V 5.0138877 h -6.97222 z"
+         id="path2-8" />
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.0338419;paint-order:markers fill stroke"
+         d="m 5.016921,101.67305 v 3.31002 h 10.466158 v -3.46615 H 5.016921 Z"
+         id="path2-6" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Rand">
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.0255047;paint-order:markers fill stroke"
+         d="M 5.0127523,5.0127523 V 104.98723 H 255.98725 V 5.0127523 Z"
+         id="path1"
+         inkscape:label="path1" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="Löcher">
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3-1-9-3"
+         cx="249.505"
+         cy="8.5050001"
+         r="1.55" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3-1-9"
+         cx="249.505"
+         cy="101.505"
+         r="1.55" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3-1"
+         cx="16.004999"
+         cy="101.505"
+         r="1.55" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+         id="path3"
+         cx="16.004999"
+         cy="8.5050001"
+         r="1.55" />
+    </g>
+  </g>
+</svg>

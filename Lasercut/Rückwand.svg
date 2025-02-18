@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600mm"
+   height="400mm"
+   viewBox="0 0 600 400"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="Rückwand.svg"
+   inkscape:export-filename="..\Drucken\Seriendruck\Rueckwand.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.260073"
+     inkscape:cx="33.627232"
+     inkscape:cy="146.23421"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="nicht cutten"
+     style="display:inline">
+    <path
+       style="fill:#555555;fill-opacity:0;stroke:#000000;stroke-width:0.0225464;paint-order:markers fill stroke"
+       d="M 153.01127,5.6839432 V 151.98873 h 73.97746 V 5.0112732 h -73.97746 z"
+       id="path2-9"
+       inkscape:label="außenausschnitt3" />
+    <path
+       style="fill:#555555;fill-opacity:0;stroke:#000000;stroke-width:0.0225464;paint-order:markers fill stroke"
+       d="M 79.011273,5.6839402 V 151.98873 H 152.98873 V 5.0112732 H 79.011273 Z"
+       id="path2-8"
+       inkscape:label="außenausschnitt2" />
+    <path
+       style="fill:#555555;fill-opacity:0;stroke:#000000;stroke-width:0.0225464;paint-order:markers fill stroke"
+       d="m 227.01127,5.68394 v 146.30479 h 73.97745 V 5.0112733 h -73.97745 z"
+       id="path2-4"
+       inkscape:label="außenausschnitt4" />
+    <path
+       style="fill:#555555;fill-opacity:0;stroke:#000000;stroke-width:0.0225464;paint-order:markers fill stroke"
+       d="M 375.01127,5.6839432 V 151.98873 h 73.97746 V 5.0112732 h -73.97746 z"
+       id="path2-9-6"
+       inkscape:label="außenausschnitt6" />
+    <path
+       style="fill:#555555;fill-opacity:0;stroke:#000000;stroke-width:0.0225464;paint-order:markers fill stroke"
+       d="M 301.01127,5.6839402 V 151.98873 h 73.97746 V 5.0112732 h -73.97746 z"
+       id="path2-8-6"
+       inkscape:label="außenausschnitt5" />
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.0190385;paint-order:markers fill stroke"
+       d="M 5.0095193,6.4056317 V 54.990481 H 54.990481 V 5.0095193 H 5.0095193 Z"
+       id="path12" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.0026654;paint-order:markers fill stroke"
+       d="m 153.50133,8.1967897 v 6.8018783 h 6.99734 V 8.0013327 h -6.99734 z"
+       id="path12-4"
+       inkscape:label="mitte" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00247501;paint-order:markers fill stroke"
+       d="m 5.0012375,147.68274 v 6.31603 h 6.4975255 v -6.49753 H 5.0012375 Z"
+       id="path12-0" />
+    <path
+       style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00410964;paint-order:markers fill stroke"
+       d="m 474.99794,5.7064285 v 5.7915165 h -6.49589 V 5.0020548 h 6.49589 z"
+       id="path13" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00410964;paint-order:markers fill stroke"
+       d="m 474.99794,148.20643 v 5.79151 h -6.49589 v -6.49589 h 6.49589 z"
+       id="path13-6" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00410964;paint-order:markers fill stroke"
+       d="m 474.99794,154.70643 v 5.79151 h -6.49589 v -6.49589 h 6.49589 z"
+       id="path13-6-6" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.0329435;paint-order:markers fill stroke"
+       d="m 350.07311,-418.52918 v 43.80228 h -49.96706 v -49.96706 h 49.96706 z"
+       id="path3"
+       transform="translate(124.91042,429.71043)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="oben">
+    <g
+       inkscape:label="Rahmen"
+       inkscape:groupmode="layer"
+       id="layer1">
+      <path
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.0646122;paint-order:markers fill stroke"
+         d="M 5.032306,17.656691 V 302.96769 H 474.9677 V 5.0323061 H 5.032306 Z"
+         id="path1"
+         inkscape:label="Gesamtausschnitt" />
+      <path
+         id="path7-0"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 12.455,147.555 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch unten links" />
+      <path
+         id="path7-0-0-7-4-4-1-7-4"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 143.005,147.555 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch unten links mitte" />
+      <path
+         id="path7-0-0-7-4-4-1-7"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 339.005,147.555 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch unten rechts mitte" />
+      <path
+         id="path7-0-0-7-4"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 469.505,147.555 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch unten rechts" />
+      <path
+         id="path7-0-0-7"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 469.505,11.454999 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-0.999999 1.0000006,1 0 0 1 1,0.999999 z"
+         inkscape:label="Loch oben rechts" />
+      <path
+         id="path7-0-0-7-4-4-1"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 339.005,11.455 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch oben rechts mitte" />
+      <path
+         id="path7-0-0-7-4-4"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 143.005,11.455 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch oben links mitte" />
+      <path
+         id="path7-0-0"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 12.455,11.455 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch oben links" />
+    </g>
+    <g
+       inkscape:label="Rahmen"
+       inkscape:groupmode="layer"
+       id="layer1-9"
+       transform="translate(124.91042,429.71043)"
+       style="display:inline">
+      <path
+         id="path7-0-1"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m -112.45542,-133.15542 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch unten links" />
+      <path
+         id="path7-0-0-7-4-4-1-7-4-2"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 18.09458,-133.15542 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch unten links mitte" />
+      <path
+         id="path7-0-0-7-4-4-1-7-6"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 214.09458,-133.15542 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch unten rechts mitte" />
+      <path
+         id="path7-0-0-7-4-7"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 344.59458,-133.15542 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch unten rechts" />
+      <path
+         id="path7-0-0-7-1"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 344.59458,-269.25542 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch oben rechts" />
+      <path
+         id="path7-0-0-7-4-4-1-5"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 214.09458,-269.25542 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch oben rechts mitte" />
+      <path
+         id="path7-0-0-7-4-4-9"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m 18.09458,-269.25542 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch oben links mitte" />
+      <path
+         id="path7-0-0-5"
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.00999998;paint-order:markers fill stroke"
+         d="m -112.45542,-269.25542 a 1.0000006,1 0 0 1 -1,1 1.0000006,1 0 0 1 -1,-1 1.0000006,1 0 0 1 1,-1 1.0000006,1 0 0 1 1,1 z"
+         inkscape:label="Loch oben links" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.009995;paint-order:markers fill stroke"
+         id="path2"
+         cx="-69.910423"
+         cy="-374.71042"
+         r="10.000003"
+         inkscape:label="Bohrloch oben links" />
+      <circle
+         style="display:inline;fill:#ffffff;fill-opacity:0;stroke:#000000;stroke-width:0.009995;paint-order:markers fill stroke"
+         id="path2-2"
+         cx="300.08957"
+         cy="-374.71042"
+         r="10.000003"
+         inkscape:label="Bohrloch oben rechts" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="gravieren"
+     style="display:none">
+    <path
+       id="path8"
+       style="stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+       d="m 31.005,80.505 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
+    <path
+       id="path9"
+       style="stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+       d="m 31.005,105.505 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
+    <path
+       id="path10"
+       style="stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+       d="m 69.005,80.505 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
+    <path
+       id="path11"
+       style="stroke:#000000;stroke-width:0.01;paint-order:markers fill stroke"
+       d="m 69.005,105.505 a 2,2 0 0 1 -2,2 2,2 0 0 1 -2,-2 2,2 0 0 1 2,-2 2,2 0 0 1 2,2 z" />
+  </g>
+</svg>
